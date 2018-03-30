@@ -5,10 +5,10 @@
         "php": "~7.1.3||~7.2.0",
         "magento/module-swatches": "100.3.*",
         "magento/module-sample-data": "100.3.*",
-        "magento/module-eav": "100.3.*"
+        "magento/module-eav": "101.1.*"
     },
     "type": "magento2-module",
-    "version": "100.3.0-dev",
+    "version": "100.3.0-alpha89804",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
