@@ -3,9 +3,9 @@
     "description": "N/A",
     "require": {
         "php": "~7.1.3||~7.2.0",
-        "magento/module-sample-data": "*",
-        "magento/module-offline-shipping": "*",
-        "magento/module-directory": "*"
+        "magento/module-sample-data": "0.*",
+        "magento/module-offline-shipping": "0.*",
+        "magento/module-directory": "0.*"
     },
     "type": "magento2-module",
     "license": [
@@ -19,5 +19,6 @@
         "psr-4": {
             "Magento\\OfflineShippingSampleData\\": ""
         }
-    }
+    },
+    "version": "100.3.0-alpha778"
 }
